@@ -31,3 +31,6 @@ I understand these technologies with proficiency but always learning more about 
 
 In my free time I try to understand more about new technologies and new changes in current ones.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crguarda&show_icons=true&theme=onedark&layout=compact) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crguarda&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
